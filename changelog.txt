@@ -1,0 +1,36 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.9
+  Changes:
+    - Fixed bug where the furnace received at the start of the game was not the correct type of furnace. This also fixes the same issue with AAI Industry.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.8
+  Changes:
+    - Fixed bug where the metal mixing furnace was still unlockable with Momo +(30) Science Mod present.
+    - Fixed bugs where crafting recipes didn't use the correct type of furnace, making the recipes uncraftable.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.7
+  Changes:
+    - Fixed bug where certain recipes were un-researchable with Momo +(30) Science Mod installed.
+    - Added changelog.txt.
+    - Technologies removed by this mod should actually be properly un-researched now.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.6
+  Changes:
+    - Technologies removed by this mod should be properly un-researched now.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.5
+  Changes:
+    - Fixed bug where Bob's calcium chloride recipe was no longer craftable when Angel's Petrochem was present.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+  Changes:
+    - Fixed bug with More Science installed where some techs were not researchable.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+  Changes:
+    - Fixed missing graphics folder.
+    - Fixed that production science wouldn't accept electric furnaces.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Changes:
+    - Added forgotten migrations.
